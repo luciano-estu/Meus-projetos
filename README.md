@@ -4,8 +4,7 @@
 olá meu nome é Luciano
 
 - este é meu repositório
-- vou usar este repositório
-  
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-- 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos nas aulas de pensamento computacional;
+- vou pstar meu jogo do p5js;
+- o meu primeiro jogo aula 1;
   
